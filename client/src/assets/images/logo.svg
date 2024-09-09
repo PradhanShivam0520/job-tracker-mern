@@ -1,0 +1,13 @@
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle with icon background -->
+  <rect width="60" height="60" rx="20" fill="#2CB1BC"/>
+  
+  <!-- Text "JT" inside the rectangle -->
+  <text x="12" y="40" font-family="Arial, sans-serif" font-size="30" fill="white" font-weight="bold">JT</text>
+  
+  <!-- Main Title: JOB TRACKER -->
+  <text x="70" y="35" font-family="Arial, sans-serif" font-size="22" fill="#2CB1BC" font-weight="bold">JOB TRACKER</text>
+  
+  <!-- Subtitle: jobs applied tracking app -->
+  <text x="70" y="46" font-family="Arial, sans-serif" font-size="12" fill="#2CB1BC">jobs applied tracking app</text>
+</svg>
