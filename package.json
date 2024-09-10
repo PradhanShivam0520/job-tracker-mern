@@ -2,13 +2,14 @@
   "name": "jobtracker",
   "version": "1.0.0",
   "description": "Job Tracker MERN app",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "setup-project": "npm i && cd client && npm i",
     "setup-production-app": "npm i && cd client && npm i && npm run build ",
     "server": "nodemon server",
     "client": "cd client && npm run dev",
+    "start": "node server.js",
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
   },
   "keywords": [],
